@@ -42,9 +42,6 @@ pip install requests Pillow
 
 4. Click the "Get Random Dog" button to fetch and display a random dog image.
 
-## Example Screenshot
-
-![App Screenshot](screenshot_placeholder.png)
 
 ## API Used
 
